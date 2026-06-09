@@ -6,7 +6,7 @@
 * **Role:** Security-Focused UI/UX Designer
 
 ### 🌐 Live Website
-[Click here to view my live portfolio website]([PASTE_YOUR_LIVE_GITHUB_PAGES_LINK_HERE](https://badkudo.github.io/CSA30203-network-security-portfolio/))
+[Click here to view my live portfolio website](https://badkudo.github.io/CSA30203-network-security-portfolio/)
 
 ### Project Description
 This repository contains the source code (HTML/CSS) and evidence materials for my network security career development portfolio assignment
